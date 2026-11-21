@@ -1,0 +1,11 @@
+*.exe
+*.zip
+*.rar
+*.7z
+*.iso
+*.msi
+*.msix
+*.tar
+*.gz
+Thumbs.db
+.DS_Store
